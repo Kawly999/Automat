@@ -1,0 +1,10 @@
+sok_pomaranczowy 3.5
+cola 4.4
+wafle 6.2
+snickers 3.0
+gryzale 9.99
+paluszki 10.3
+fanta 4.6
+orzeszki 5.99
+kostka_rosolowa 3.3
+lod_orzechowy 5.6
